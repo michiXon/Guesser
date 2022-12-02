@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Yo</string>
+    <string name="choose_num">Wybierz liczbe, do ktorej chcesz zgadywac</string>
+    <string name="start_btn">Zacznij grę</string>
+    <string name="check_num"> Sprawdz odpowiedz </string>
+    <string name="menu">Menu</string>
+    <string name="guess_txt">Zgadnij liczbe</string>
+    <string name="hint_txt"></string>
+
+
+</resources>
